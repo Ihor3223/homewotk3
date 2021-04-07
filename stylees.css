@@ -1,0 +1,35 @@
+.body {
+  text-align: center;
+}
+.sec {
+  margin: auto;
+  width: 100%;
+}
+.container {
+  display: inline-block;
+  margin: auto;
+  width: 20%;
+}
+.cont {
+  margin: auto;
+  height: 80px;
+  width: 82px;
+  border: 2px solid #1275b9;
+  border-radius: 50%;
+  background: #fff;
+  transition: background 0.2s linear;
+  cursor: pointer;
+}
+.iphone {
+  margin-top: 22px;
+}
+.cont:hover {
+  background: #1275b9;
+}
+.text {
+  font-family: "Montserrat", sans-serif;
+  color: #686565;
+}
+.texto {
+  font-family: "Montserrat", sans-serif;
+}
